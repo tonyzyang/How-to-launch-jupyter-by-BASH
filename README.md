@@ -1,4 +1,8 @@
 
+---
+featured-image: How-to-launch-jupyter-by-BASH/How to launch the Jupyter.png
+---
+
 USE MAC terminal/win Bash to launch the jupyter <br />
 step 1: Preparation <br />
          $ mkdir .ssh <br />
@@ -29,6 +33,3 @@ step 5: launch the jupyter<br />
 	$ docker exec (first 4 letters) jupyter notebook list ( show the jupyter address and tocken)<br />
 	copy the public address into the http, or using the tocken.<br />
 	
----
-featured-image: How-to-launch-jupyter-by-BASH/How to launch the Jupyter.png
----
