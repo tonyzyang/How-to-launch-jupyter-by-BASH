@@ -35,7 +35,7 @@ step 5: launch the jupyter<br />
 A detailed budget of the costs of running a Jupyter Data Science Notebook Server for three months using at least three different kinds of EC 2 instances.<br />
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS <br />
 Assuming every month we use 300 hours, so the Budget <br />
-if we use the ubuntu t1.micro 0.02/hour, the price for 3 months would be 900hours*0.02=18 dollar<br />
-if we use the ubuntu m1.small $0.044/hour, the price for 3 months would be 900hours*0.044=39.6 dollar<br />
-if we use the ubuntu m1.medium $0.087/hour, the price for 3 months would be 900hours*0.087=78.3 dollar<br />
-if we use the ubuntu c1.medium $0.130/hour, the price for 3 months would be 900hours*0.13=117 dollar<br />
+if we use the ubuntu t1.micro 0.02/hour, the price for 3 months would be 900hours * 0.02=18 dollar<br />
+if we use the ubuntu m1.small $0.044/hour, the price for 3 months would be 900hours * 0.044=39.6 dollar<br />
+if we use the ubuntu m1.medium $0.087/hour, the price for 3 months would be 900hours * 0.087=78.3 dollar<br />
+if we use the ubuntu c1.medium $0.130/hour, the price for 3 months would be 900hours * 0.13=117 dollar<br />
