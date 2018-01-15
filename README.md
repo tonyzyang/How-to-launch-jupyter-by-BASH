@@ -1,7 +1,4 @@
-
----
-featured-image: How-to-launch-jupyter-by-BASH/How to launch the Jupyter.png
----
+![My image](https://github.com/tonyzyang/How-to-launch-jupyter-by-BASH/blob/master/How%20to%20launch%20the%20Jupyter.png)
 
 USE MAC terminal/win Bash to launch the jupyter <br />
 step 1: Preparation <br />
