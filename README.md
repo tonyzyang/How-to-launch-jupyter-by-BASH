@@ -1,8 +1,8 @@
 # How-to-launch-jupyter-by-BASH
 USE MAC terminal/win Bash to launch the jupyter
-step 1: Preparation a__
-         $ mkdir .ssh a__
-         $ ssh-keygen a__
+step 1: Preparation 
+         $ mkdir .ssh a_
+         $ ssh-keygen a_
 step 2: create the AWS account, using the EC2 platform
 		2.1 Set up the KEY PAIR: using the function on BASH $ cat ~/.ssh/id_rsa.pub get the computer ssh
 		2.2 Set up security group
