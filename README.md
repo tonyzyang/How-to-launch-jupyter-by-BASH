@@ -28,3 +28,4 @@ step 4: set up the Jupyter<br />
 step 5: launch the jupyter<br />
 	$ docker exec (first 4 letters) jupyter notebook list ( show the jupyter address and tocken)<br />
 	copy the public address into the http, or using the tocken.<br />
+featured-image: /images/schedule.jpg
