@@ -30,3 +30,6 @@ step 5: launch the jupyter<br />
 	copy the public address into the http, or using the tocken.<br />
 	
 ![My image](https://github.com/tonyzyang/How-to-launch-jupyter-by-BASH/blob/master/How%20to%20launch%20the%20Jupyter.png)
+
+![My image](https://github.com/tonyzyang/How-to-launch-jupyter-by-BASH/blob/master/cost%20for%20jupyter%20driver.png)
+so the Budget if we use the ubuntu
