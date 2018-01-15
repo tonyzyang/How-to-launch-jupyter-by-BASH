@@ -13,6 +13,7 @@ step 2: create the AWS account, using the EC2 platform<br />
 			TCP range 2376<br />
 		2.3 launch the instance: choose ubuntu, select the security group, select 30G<br />
 		2.4 after launching the instance, copy the public IP address<br />
+		
 step 3: install docker<br />
 		$ ssh ubuntu@(IP address)<br />
                            $ Curl-ssl https://get.docker.com | sh<br />
